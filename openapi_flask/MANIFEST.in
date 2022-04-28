@@ -1,0 +1,2 @@
+recursive-include openapi_flask/templates *
+recursive-include examples *
