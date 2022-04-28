@@ -1,0 +1,2 @@
+# openapi_flask
+集成fastapi和pydantic思想，在flask中自动构建简洁明了的接口文档平台
